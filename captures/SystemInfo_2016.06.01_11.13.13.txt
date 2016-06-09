@@ -1,0 +1,37 @@
+TASK course.examples.maplocationfromcontacts id=12
+  ACTIVITY course.examples.maplocationfromcontacts/.MapLocationFromContactsActivity 2a81a03 pid=3583
+    Local Activity 203a9f0 State:
+      mResumed=true mStopped=false mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h659dp 420dpi nrml port finger qwerty/v/v -nav/h s.5}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@50d6f20
+        mContainer=android.app.Activity$HostCallbacks@50d6f20
+        mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false      mIsAmbientMode=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=4641548 (96598 ms ago)
+    View Hierarchy:
+      DecorView@d77ea9e[MapLocationFromContactsActivity]
+        com.android.internal.widget.ActionBarOverlayLayout{9bf397f V.E...... ........ 0,0-1080,1794 #10203ed android:id/decor_content_parent}
+          android.widget.FrameLayout{12a5d4c V.E...... ........ 0,210-1080,1794 #1020002 android:id/content}
+            android.widget.LinearLayout{c3f1195 V.E...... ........ 0,0-1080,1584}
+              android.widget.Button{c7412aa VFED..C.. ....H... 0,0-312,126 #7f050000 app:id/mapButton}
+          com.android.internal.widget.ActionBarContainer{497ee9b V.ED..... ........ 0,63-1080,210 #10203ee android:id/action_bar_container}
+            android.widget.Toolbar{6460238 V.E...... ........ 0,0-1080,147 #10203ef android:id/action_bar}
+              android.widget.TextView{fcc3211 V.ED..... ........ 42,38-690,109}
+              android.widget.ActionMenuView{b58af76 V.E...... ......ID 1080,0-1080,147}
+            com.android.internal.widget.ActionBarContextView{57cd977 G.E...... ......I. 0,0-0,0 #10203f0 android:id/action_context_bar}
+    Looper (main, tid 1) {a30de4d}
+      (Total messages: 0, polling=false, quitting=false)

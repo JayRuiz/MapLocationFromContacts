@@ -1,0 +1,41 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        523c977 course.examples.maplocationfromcontacts/.MapLocationFromContactsActivity filter 280d74a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+
+Key Set Manager:
+  [course.examples.maplocationfromcontacts]
+      Signing KeySets: 9
+
+Packages:
+  Package [course.examples.maplocationfromcontacts] (a939e4):
+    userId=10064
+    pkg=Package{2094e4d course.examples.maplocationfromcontacts}
+    codePath=/data/app/course.examples.maplocationfromcontacts-1
+    resourcePath=/data/app/course.examples.maplocationfromcontacts-1
+    legacyNativeLibraryDir=/data/app/course.examples.maplocationfromcontacts-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=14 targetSdk=19
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{9818613 course.examples.maplocationfromcontacts}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    dataDir=/data/user/0/course.examples.maplocationfromcontacts
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-06-01 11:10:37
+    firstInstallTime=2016-06-01 11:10:37
+    lastUpdateTime=2016-06-01 11:10:37
+    signatures=PackageSignatures{8b21050 [a250d5d3]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.READ_CONTACTS
+    install permissions:
+      android.permission.READ_CONTACTS: granted=true
+    User 0: ceDataInode=8118 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0
+      runtime permissions:

@@ -1,0 +1,140 @@
+CURRENT STATS:
+System memory usage:
+  SOn /Norm: 1 samples:
+    Cached: 306MB min, 306MB avg, 306MB max
+    Free: 218MB min, 218MB avg, 218MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 69MB min, 69MB avg, 69MB max
+    Native: 104MB min, 104MB avg, 104MB max
+
+Per-Package Stats:
+  * course.examples.maplocationfromcontacts / u0a64 / v1:
+      * course.examples.maplocationfromcontacts / u0a64 / v1:
+               TOTAL: 1.4% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+                 Top: 1.4% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+          (Last Act): 0.27%
+
+Summary:
+  * course.examples.maplocationfromcontacts / u0a64 / v1:
+           TOTAL: 1.4% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+             Top: 1.4% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+      (Last Act): 0.27%
+
+Run time Stats:
+  SOn /Norm: +1h17m26s572ms (running)
+      TOTAL: +1h17m26s572ms
+
+Memory usage:
+  Kernel : 69MB (8 samples)
+  Native : 104MB (8 samples)
+  Persist: 123MB (15 samples)
+  Top    : 51MB (108 samples)
+  ImpFg  : 31MB (85 samples)
+  ImpBg  : 9.0MB (8 samples)
+  Service: 280KB (49 samples)
+  Receivr: 71KB (48 samples)
+  Home   : 17MB (7 samples)
+  LastAct: 5.0MB (31 samples)
+  CchEmty: 116MB (48 samples)
+  Cached : 306MB (8 samples)
+  Free   : 218MB (8 samples)
+  TOTAL  : 1.0GB
+
+          Start time: 2016-06-01 09:54:28
+  Total elapsed time: +1h17m30s910ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOn /Norm: 2 samples:
+    Cached: 306MB min, 417MB avg, 528MB max
+    Free: 33MB min, 125MB avg, 218MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 67MB min, 68MB avg, 69MB max
+    Native: 104MB min, 110MB avg, 117MB max
+
+Per-Package Stats:
+  * course.examples.maplocationfromcontacts / u0a64 / v1:
+      * course.examples.maplocationfromcontacts / u0a64 / v1:
+               TOTAL: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+                 Top: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+          (Last Act): 0.19%
+
+Summary:
+  * course.examples.maplocationfromcontacts / u0a64 / v1:
+           TOTAL: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+             Top: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+      (Last Act): 0.19%
+
+Run time Stats:
+  SOn /Norm: +1h47m17s748ms
+      TOTAL: +1h47m17s748ms
+
+Memory usage:
+  Kernel : 68MB (16 samples)
+  Native : 110MB (16 samples)
+  Persist: 121MB (21 samples)
+  Top    : 60MB (156 samples)
+  ImpFg  : 29MB (130 samples)
+  ImpBg  : 8.0MB (13 samples)
+  Service: 1.1MB (93 samples)
+  Receivr: 119KB (83 samples)
+  Home   : 13MB (11 samples)
+  LastAct: 4.6MB (53 samples)
+  CchAct : 658KB (13 samples)
+  CchCAct: 363KB (24 samples)
+  CchEmty: 108MB (122 samples)
+  Cached : 417MB (16 samples)
+  Free   : 125MB (16 samples)
+  TOTAL  : 1.0GB
+  ServRst: 1.0KB (13 samples)
+
+          Start time: 2016-05-31 23:09:29
+  Total elapsed time: +1h47m33s474ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOn /Norm: 2 samples:
+    Cached: 306MB min, 417MB avg, 528MB max
+    Free: 33MB min, 125MB avg, 218MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 67MB min, 68MB avg, 69MB max
+    Native: 104MB min, 110MB avg, 117MB max
+
+Per-Package Stats:
+  * course.examples.maplocationfromcontacts / u0a64 / v1:
+      * course.examples.maplocationfromcontacts / u0a64 / v1:
+               TOTAL: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+                 Top: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+          (Last Act): 0.19%
+
+Summary:
+  * course.examples.maplocationfromcontacts / u0a64 / v1:
+           TOTAL: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+             Top: 1.0% (16MB-16MB-16MB/13MB-13MB-13MB over 1)
+      (Last Act): 0.19%
+
+Run time Stats:
+  SOn /Norm: +1h47m17s854ms
+      TOTAL: +1h47m17s854ms
+
+Memory usage:
+  Kernel : 68MB (16 samples)
+  Native : 110MB (16 samples)
+  Persist: 121MB (21 samples)
+  Top    : 60MB (156 samples)
+  ImpFg  : 29MB (130 samples)
+  ImpBg  : 8.0MB (13 samples)
+  Service: 1.1MB (93 samples)
+  Receivr: 119KB (83 samples)
+  Home   : 13MB (11 samples)
+  LastAct: 4.6MB (53 samples)
+  CchAct : 659KB (13 samples)
+  CchCAct: 364KB (24 samples)
+  CchEmty: 108MB (122 samples)
+  Cached : 417MB (16 samples)
+  Free   : 125MB (16 samples)
+  TOTAL  : 1.0GB
+  ServRst: 1.0KB (13 samples)
+
+          Start time: 2016-05-31 23:09:29
+  Total elapsed time: +1h47m33s580ms (partial) libart.so
